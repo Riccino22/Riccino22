@@ -30,7 +30,7 @@
 ---
 
 ## 📊 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riccino22a&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riccino22&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riccino22&layout=compact)
 
 ---
