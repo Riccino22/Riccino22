@@ -18,7 +18,7 @@
 ## 🌟 Highlighted Projects
 - [📄 **Odoo Projects**](https://github.com/Riccino22/odoo_projects): A set of projects that extend the functionality of Odoo's native modules.
 - [💻 **Vocabulary App**](https://github.com/Riccino22/vocabulary_app): Vocabulary App with Ptyhon using Streamlit, nltk and googletrans.
-- [🎮 **Riccino Blog**](https://github.com/Riccino22/riccino-blog/): An interactive game that combines entertainment and math learning.
+- [**Riccino Blog**](https://github.com/Riccino22/riccino-blog/): An interactive game that combines entertainment and math learning.
 
 ---
 
