@@ -5,7 +5,7 @@ module.exports = function updateNewsletter(fetchNews, buildStoryCard, writeReadm
     const stories = await fetchNews(count)
     if (!stories || stories.length === 0) throw new Error('No se obtuvieron noticias')
 
-    const cards = stories.map((story, i) => buildStoryCard(story, i + 1))
+    const cards = stories.map((story, i) => ({ svg: buildStoryCard(story, i + 1), url: story.url }))
     await writeReadme(cards)
 
     return { code: 200, count: stories.length }
