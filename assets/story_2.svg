@@ -1,32 +1,34 @@
-<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Story 2: What I'm Hearing About Cognitive Debt (So Far)">
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Story 2: Bun is being ported from Zig to Rust">
   <!-- Card -->
-  <rect width="800" height="160" rx="10" fill="#ffffff"/>
-  <rect width="800" height="160" rx="10" fill="none" stroke="rgba(0,0,0,0.08)" stroke-width="1"/>
+  <rect width="800" height="200" rx="12" fill="#ffffff"/>
+  <rect width="800" height="200" rx="12" fill="none" stroke="rgba(0,0,0,0.08)" stroke-width="1"/>
 
   <!-- Rank badge -->
-  <rect x="24" y="52" width="50" height="42" rx="7" fill="#f1edec"/>
-  <text x="49" y="80" font-family="ui-monospace,'Cascadia Code','Courier New',monospace" font-size="16" font-weight="500" fill="#4d4d4d" text-anchor="middle">#2</text>
+  <rect x="24" y="64" width="54" height="48" rx="8" fill="#f1edec"/>
+  <text x="51" y="95" font-family="ui-monospace,'Cascadia Code','Courier New',monospace" font-size="18" font-weight="500" fill="#4d4d4d" text-anchor="middle">#2</text>
 
   <!-- Title -->
-  <text x="90" y="54" font-family="Inter,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="28" font-weight="600" letter-spacing="-0.8" fill="#171717">What I'm Hearing About Cognitive Debt (So Far)</text>
+  <text x="96" y="68" font-family="Inter,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="34" font-weight="600" letter-spacing="-1" fill="#171717">Bun is being ported from Zig to Rust</text>
 
   <!-- Domain -->
-  <text x="90" y="84" font-family="ui-monospace,'Cascadia Code','Courier New',monospace" font-size="15" fill="#a0a0a0">margaretstorey.com</text>
+  <text x="96" y="102" font-family="ui-monospace,'Cascadia Code','Courier New',monospace" font-size="18" fill="#a0a0a0">github.com</text>
 
   <!-- Meta: score -->
-  <text x="90" y="122" font-family="Inter,system-ui,sans-serif" font-size="14" font-weight="500" fill="#0068d6">▲ 49</text>
+  <text x="96" y="158" font-family="Inter,system-ui,sans-serif" font-size="17" font-weight="500" fill="#0068d6">▲ 235</text>
 
   <!-- Meta: separator -->
-  <text x="175" y="122" font-family="Inter,system-ui,sans-serif" font-size="14" fill="#d0d0d0">·</text>
+  <text x="188" y="158" font-family="Inter,system-ui,sans-serif" font-size="17" fill="#d0d0d0">·</text>
 
   <!-- Meta: author -->
-  <text x="190" y="122" font-family="Inter,system-ui,sans-serif" font-size="14" fill="#4d4d4d">by <tspan font-weight="600" fill="#171717">raphaelcosta</tspan></text>
+  <text x="204" y="158" font-family="Inter,system-ui,sans-serif" font-size="17" fill="#4d4d4d">by <tspan font-weight="600" fill="#171717">SergeAx</tspan></text>
 
   <!-- Meta: separator -->
-  <text x="318" y="122" font-family="Inter,system-ui,sans-serif" font-size="14" fill="#d0d0d0">·</text>
+  <text x="344" y="158" font-family="Inter,system-ui,sans-serif" font-size="17" fill="#d0d0d0">·</text>
 
   <!-- Meta: comments -->
-  <text x="334" y="122" font-family="Inter,system-ui,sans-serif" font-size="14" fill="#4d4d4d">◯ 14 comments</text>
+  <text x="360" y="158" font-family="Inter,system-ui,sans-serif" font-size="17" fill="#4d4d4d">◯ 159 comments</text>
 
-  
+  <!-- Category pill -->
+  <rect x="710" y="136" width="66" height="28" rx="14" fill="#ebf5ff"/>
+  <text x="743" y="155" font-family="Inter,system-ui,sans-serif" font-size="12" font-weight="700" letter-spacing="0.8" fill="#0068d6" text-anchor="middle">Code</text>
 </svg>
