@@ -1,0 +1,32 @@
+<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Story 4: Pulitzer Prize Winner in International Reporting">
+  <!-- Card -->
+  <rect width="800" height="160" rx="10" fill="#ffffff"/>
+  <rect width="800" height="160" rx="10" fill="none" stroke="rgba(0,0,0,0.08)" stroke-width="1"/>
+
+  <!-- Rank badge -->
+  <rect x="24" y="52" width="50" height="42" rx="7" fill="#f1edec"/>
+  <text x="49" y="80" font-family="ui-monospace,'Cascadia Code','Courier New',monospace" font-size="16" font-weight="500" fill="#4d4d4d" text-anchor="middle">#4</text>
+
+  <!-- Title -->
+  <text x="90" y="54" font-family="Inter,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="28" font-weight="600" letter-spacing="-0.8" fill="#171717">Pulitzer Prize Winner in International Reporting</text>
+
+  <!-- Domain -->
+  <text x="90" y="84" font-family="ui-monospace,'Cascadia Code','Courier New',monospace" font-size="15" fill="#a0a0a0">pulitzer.org</text>
+
+  <!-- Meta: score -->
+  <text x="90" y="122" font-family="Inter,system-ui,sans-serif" font-size="14" font-weight="500" fill="#0068d6">▲ 19</text>
+
+  <!-- Meta: separator -->
+  <text x="175" y="122" font-family="Inter,system-ui,sans-serif" font-size="14" fill="#d0d0d0">·</text>
+
+  <!-- Meta: author -->
+  <text x="190" y="122" font-family="Inter,system-ui,sans-serif" font-size="14" fill="#4d4d4d">by <tspan font-weight="600" fill="#171717">jay_kyburz</tspan></text>
+
+  <!-- Meta: separator -->
+  <text x="318" y="122" font-family="Inter,system-ui,sans-serif" font-size="14" fill="#d0d0d0">·</text>
+
+  <!-- Meta: comments -->
+  <text x="334" y="122" font-family="Inter,system-ui,sans-serif" font-size="14" fill="#4d4d4d">◯ 2 comments</text>
+
+  
+</svg>
