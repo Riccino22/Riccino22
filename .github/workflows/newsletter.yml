@@ -28,7 +28,7 @@ jobs:
         run: |
           git config user.name "Riccino22"
           git config user.email "riccardorinojosam@gmail.com"
-          git add README.md assets/hn_story_*.svg assets/devto_story_*.svg
+          git add README.md assets/hn_story_*.svg assets/lobsters_story_*.svg
           git diff --staged --quiet || git commit -m "chore: newsletter $(date +'%Y-%m-%d') [skip ci]"
           git pull --rebase origin main
           git push
