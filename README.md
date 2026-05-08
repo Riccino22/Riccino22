@@ -2,7 +2,7 @@
 
 <!-- NEWSLETTER_START -->
 
-### 📰 Top 5 on Hacker News · May 5, 2026
+### 📰 Top 5 on Hacker News · May 7, 2026
 > Automatically updated every day with the most upvoted stories. Click any card to read the article.
 
 <table width="100%">
