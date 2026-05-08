@@ -12,30 +12,30 @@
 </tr>
 <tr>
 <td width="50%"><a href="https://www.openwall.com/lists/oss-security/2026/05/07/8" target="_blank"><img src="assets/hn_story_3.svg" alt="Hacker News Story 3" width="100%"/></a></td>
-<td width="50%"><a href="https://www.not-ship.com/burning-man-moop/" target="_blank"><img src="assets/hn_story_4.svg" alt="Hacker News Story 4" width="100%"/></a></td>
+<td width="50%"><a href="https://storica.club/blog/pinocchio-in-italian/" target="_blank"><img src="assets/hn_story_4.svg" alt="Hacker News Story 4" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://storica.club/blog/pinocchio-in-italian/" target="_blank"><img src="assets/hn_story_5.svg" alt="Hacker News Story 5" width="100%"/></a></td>
+<td width="50%"><a href="https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/" target="_blank"><img src="assets/hn_story_5.svg" alt="Hacker News Story 5" width="100%"/></a></td>
 <td width="50%"></td>
 </tr>
 </table>
 
 ---
 
-### 👩‍💻 Top 5 on Dev.to · May 8, 2026
-> Top articles from the dev.to community this week. Click any card to read the post.
+### 🦞 Top 5 on Lobste.rs · May 8, 2026
+> Curated tech stories voted on by the Lobste.rs community. Click any card to read the article.
 
 <table width="100%">
 <tr>
-<td width="50%"><a href="https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da" target="_blank"><img src="assets/devto_story_1.svg" alt="Dev.to Story 1" width="100%"/></a></td>
-<td width="50%"><a href="https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh" target="_blank"><img src="assets/devto_story_2.svg" alt="Dev.to Story 2" width="100%"/></a></td>
+<td width="50%"><a href="https://www.openwall.com/lists/oss-security/2026/05/07/8" target="_blank"><img src="assets/lobsters_story_1.svg" alt="Lobste.rs Story 1" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/jj-vcs/jj/releases/tag/v0.41.0" target="_blank"><img src="assets/lobsters_story_2.svg" alt="Lobste.rs Story 2" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in" target="_blank"><img src="assets/devto_story_3.svg" alt="Dev.to Story 3" width="100%"/></a></td>
-<td width="50%"><a href="https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j" target="_blank"><img src="assets/devto_story_4.svg" alt="Dev.to Story 4" width="100%"/></a></td>
+<td width="50%"><a href="https://ploopy.co/bean/" target="_blank"><img src="assets/lobsters_story_3.svg" alt="Lobste.rs Story 3" width="100%"/></a></td>
+<td width="50%"><a href="https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/" target="_blank"><img src="assets/lobsters_story_4.svg" alt="Lobste.rs Story 4" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1" target="_blank"><img src="assets/devto_story_5.svg" alt="Dev.to Story 5" width="100%"/></a></td>
+<td width="50%"><a href="https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/" target="_blank"><img src="assets/lobsters_story_5.svg" alt="Lobste.rs Story 5" width="100%"/></a></td>
 <td width="50%"></td>
 </tr>
 </table>
