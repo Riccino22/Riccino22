@@ -10,8 +10,11 @@ class HackerNewsStrategy extends BaseNewsStrategy {
     return this.fetchStories(count)
   }
 
-  getSourceName() {
-    return 'Hacker News'
+  getSourceName() { return 'Hacker News' }
+  getSourceSlug() { return 'hn' }
+  getSourceIcon()  { return '📰' }
+  getSourceDescription() {
+    return 'Automatically updated every day with the most upvoted stories. Click any card to read the article.'
   }
 }
 
