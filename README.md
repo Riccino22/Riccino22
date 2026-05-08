@@ -15,7 +15,7 @@
 <td width="50%"><a href="https://www.not-ship.com/burning-man-moop/" target="_blank"><img src="assets/hn_story_4.svg" alt="Hacker News Story 4" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://bsuh.bearblog.dev/agents-need-control-flow/" target="_blank"><img src="assets/hn_story_5.svg" alt="Hacker News Story 5" width="100%"/></a></td>
+<td width="50%"><a href="https://storica.club/blog/pinocchio-in-italian/" target="_blank"><img src="assets/hn_story_5.svg" alt="Hacker News Story 5" width="100%"/></a></td>
 <td width="50%"></td>
 </tr>
 </table>
