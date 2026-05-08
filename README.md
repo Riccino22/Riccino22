@@ -2,40 +2,40 @@
 
 <!-- NEWSLETTER_START -->
 
-### 📰 Top 5 on Hacker News · May 7, 2026
+### 📰 Top 5 on Hacker News · May 8, 2026
 > Automatically updated every day with the most upvoted stories. Click any card to read the article.
 
 <table width="100%">
 <tr>
-<td width="50%"><a href="https://dnssec-analyzer.verisignlabs.com/nic.de" target="_blank"><img src="assets/hn_story_1.svg" alt="Hacker News Story 1" width="100%"/></a></td>
-<td width="50%"><a href="https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/" target="_blank"><img src="assets/hn_story_2.svg" alt="Hacker News Story 2" width="100%"/></a></td>
+<td width="50%"><a href="https://www.theverge.com/tech/926458/canvas-shinyhunters-breach" target="_blank"><img src="assets/hn_story_1.svg" alt="Hacker News Story 1" width="100%"/></a></td>
+<td width="50%"><a href="https://xeiaso.net/blog/2026/abstain-from-install/" target="_blank"><img src="assets/hn_story_2.svg" alt="Hacker News Story 2" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/" target="_blank"><img src="assets/hn_story_3.svg" alt="Hacker News Story 3" width="100%"/></a></td>
-<td width="50%"><a href="https://susam.net/inverse-laws-of-robotics.html" target="_blank"><img src="assets/hn_story_4.svg" alt="Hacker News Story 4" width="100%"/></a></td>
+<td width="50%"><a href="https://www.openwall.com/lists/oss-security/2026/05/07/8" target="_blank"><img src="assets/hn_story_3.svg" alt="Hacker News Story 3" width="100%"/></a></td>
+<td width="50%"><a href="https://www.not-ship.com/burning-man-moop/" target="_blank"><img src="assets/hn_story_4.svg" alt="Hacker News Story 4" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/" target="_blank"><img src="assets/hn_story_5.svg" alt="Hacker News Story 5" width="100%"/></a></td>
+<td width="50%"><a href="https://bsuh.bearblog.dev/agents-need-control-flow/" target="_blank"><img src="assets/hn_story_5.svg" alt="Hacker News Story 5" width="100%"/></a></td>
 <td width="50%"></td>
 </tr>
 </table>
 
 ---
 
-### 🤖 Top 5 on Reddit · May 5, 2026
-> Top AI, agents and dev posts from r/LocalLLaMA, r/artificial, r/ChatGPT, r/technology, r/programming. Click any card to read the post.
+### 👩‍💻 Top 5 on Dev.to · May 8, 2026
+> Top articles from the dev.to community this week. Click any card to read the post.
 
 <table width="100%">
 <tr>
-<td width="50%"><a href="https://www.ft.com/content/711ce313-16fb-4a12-b6be-fbed547c8a39?syn-25a6b1a6=1" target="_blank"><img src="assets/reddit_story_1.svg" alt="Reddit Story 1" width="100%"/></a></td>
-<td width="50%"><a href="https://www.androidheadlines.com/2026/05/a-security-researcher-decompiled-the-white-house-app-what-they-found-is-pretty-alarming.html" target="_blank"><img src="assets/reddit_story_2.svg" alt="Reddit Story 2" width="100%"/></a></td>
+<td width="50%"><a href="https://dev.to/itsugo/i-didnt-stop-building-i-just-left-my-laptop-27da" target="_blank"><img src="assets/devto_story_1.svg" alt="Dev.to Story 1" width="100%"/></a></td>
+<td width="50%"><a href="https://dev.to/sylwia-lask/i-love-tailwind-sorry-not-sorry-5cfh" target="_blank"><img src="assets/devto_story_2.svg" alt="Dev.to Story 2" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://i.redd.it/79vf7ph9q6zg1.png" target="_blank"><img src="assets/reddit_story_3.svg" alt="Reddit Story 3" width="100%"/></a></td>
-<td width="50%"><a href="https://arstechnica.com/science/2026/05/trump-administration-cites-national-security-in-stalling-165-wind-farms/" target="_blank"><img src="assets/reddit_story_4.svg" alt="Reddit Story 4" width="100%"/></a></td>
+<td width="50%"><a href="https://dev.to/devteam/join-the-gemma-4-challenge-3000-prize-pool-for-ten-winners-23in" target="_blank"><img src="assets/devto_story_3.svg" alt="Dev.to Story 3" width="100%"/></a></td>
+<td width="50%"><a href="https://dev.to/vladimirnovick/a-linkedin-recruiter-sent-me-malware-disguised-as-a-pre-interview-code-review-2k3j" target="_blank"><img src="assets/devto_story_4.svg" alt="Dev.to Story 4" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb" target="_blank"><img src="assets/reddit_story_5.svg" alt="Reddit Story 5" width="100%"/></a></td>
+<td width="50%"><a href="https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1" target="_blank"><img src="assets/devto_story_5.svg" alt="Dev.to Story 5" width="100%"/></a></td>
 <td width="50%"></td>
 </tr>
 </table>
