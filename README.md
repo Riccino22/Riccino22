@@ -2,40 +2,40 @@
 
 <!-- NEWSLETTER_START -->
 
-### 📰 Top 5 on Hacker News · May 19, 2026
+### 📰 Top 5 on Hacker News · May 20, 2026
 > Automatically updated every day with the most upvoted stories. Click any card to read the article.
 
 <table width="100%">
 <tr>
-<td width="50%"><a href="https://superspl.at/scene/84df8849" target="_blank"><img src="assets/hn_story_1.svg" alt="Hacker News Story 1" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/Diolinux/PhotoGIMP" target="_blank"><img src="assets/hn_story_2.svg" alt="Hacker News Story 2" width="100%"/></a></td>
+<td width="50%"><a href="https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html" target="_blank"><img src="assets/hn_story_1.svg" alt="Hacker News Story 1" width="100%"/></a></td>
+<td width="50%"><a href="https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html" target="_blank"><img src="assets/hn_story_2.svg" alt="Hacker News Story 2" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314" target="_blank"><img src="assets/hn_story_3.svg" alt="Hacker News Story 3" width="100%"/></a></td>
-<td width="50%"><a href="https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/" target="_blank"><img src="assets/hn_story_4.svg" alt="Hacker News Story 4" width="100%"/></a></td>
+<td width="50%"><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/" target="_blank"><img src="assets/hn_story_3.svg" alt="Hacker News Story 3" width="100%"/></a></td>
+<td width="50%"><a href="https://fivethirtyeightindex.com/" target="_blank"><img src="assets/hn_story_4.svg" alt="Hacker News Story 4" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/vostride/id-agent" target="_blank"><img src="assets/hn_story_5.svg" alt="Hacker News Story 5" width="100%"/></a></td>
+<td width="50%"><a href="https://www.economist.com/culture/2026/05/14/the-weird-wild-story-of-humanitys-obsession-with-gold" target="_blank"><img src="assets/hn_story_5.svg" alt="Hacker News Story 5" width="100%"/></a></td>
 <td width="50%"></td>
 </tr>
 </table>
 
 ---
 
-### 🦞 Top 5 on Lobste.rs · May 19, 2026
+### 🦞 Top 5 on Lobste.rs · May 20, 2026
 > Curated tech stories voted on by the Lobste.rs community. Click any card to read the article.
 
 <table width="100%">
 <tr>
-<td width="50%"><a href="https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden" target="_blank"><img src="assets/lobsters_story_1.svg" alt="Lobste.rs Story 1" width="100%"/></a></td>
-<td width="50%"><a href="https://sfconservancy.org/news/2026/may/18/bambu-studio-3d-printer-agpl-violation-response/" target="_blank"><img src="assets/lobsters_story_2.svg" alt="Lobste.rs Story 2" width="100%"/></a></td>
+<td width="50%"><a href="https://haskellforall.com/2026/05/type-out-the-code" target="_blank"><img src="assets/lobsters_story_1.svg" alt="Lobste.rs Story 1" width="100%"/></a></td>
+<td width="50%"><a href="https://caio.ca/blog/why-ruby-still-feels-like-home" target="_blank"><img src="assets/lobsters_story_2.svg" alt="Lobste.rs Story 2" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://casuarina.org/news/introducing-casuarina-linux/" target="_blank"><img src="assets/lobsters_story_3.svg" alt="Lobste.rs Story 3" width="100%"/></a></td>
-<td width="50%"><a href="https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/" target="_blank"><img src="assets/lobsters_story_4.svg" alt="Lobste.rs Story 4" width="100%"/></a></td>
+<td width="50%"><a href="https://www.openbsd.org/79.html" target="_blank"><img src="assets/lobsters_story_3.svg" alt="Lobste.rs Story 3" width="100%"/></a></td>
+<td width="50%"><a href="https://ddbeck.com/notes/jj-git-push-bookmark-template/" target="_blank"><img src="assets/lobsters_story_4.svg" alt="Lobste.rs Story 4" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/naver/lispe/wiki/6.23-De%E2%80%90bloating-Javascript" target="_blank"><img src="assets/lobsters_story_5.svg" alt="Lobste.rs Story 5" width="100%"/></a></td>
+<td width="50%"><a href="https://huronbikes.mataroa.blog/blog/i-am-not-a-software-engineer/" target="_blank"><img src="assets/lobsters_story_5.svg" alt="Lobste.rs Story 5" width="100%"/></a></td>
 <td width="50%"></td>
 </tr>
 </table>
