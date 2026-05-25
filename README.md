@@ -2,40 +2,40 @@
 
 <!-- NEWSLETTER_START -->
 
-### 📰 Top 5 on Hacker News · May 24, 2026
+### 📰 Top 5 on Hacker News · May 25, 2026
 > Automatically updated every day with the most upvoted stories. Click any card to read the article.
 
 <table width="100%">
 <tr>
-<td width="50%"><a href="https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/" target="_blank"><img src="assets/hn_story_1.svg" alt="Hacker News Story 1" width="100%"/></a></td>
-<td width="50%"><a href="https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US" target="_blank"><img src="assets/hn_story_2.svg" alt="Hacker News Story 2" width="100%"/></a></td>
+<td width="50%"><a href="https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html" target="_blank"><img src="assets/hn_story_1.svg" alt="Hacker News Story 1" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100" target="_blank"><img src="assets/hn_story_2.svg" alt="Hacker News Story 2" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/ClickHouse/silk" target="_blank"><img src="assets/hn_story_3.svg" alt="Hacker News Story 3" width="100%"/></a></td>
-<td width="50%"><a href="https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html" target="_blank"><img src="assets/hn_story_4.svg" alt="Hacker News Story 4" width="100%"/></a></td>
+<td width="50%"><a href="https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/" target="_blank"><img src="assets/hn_story_3.svg" alt="Hacker News Story 3" width="100%"/></a></td>
+<td width="50%"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/" target="_blank"><img src="assets/hn_story_4.svg" alt="Hacker News Story 4" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://fs.blog/knowledge-project-podcast/greg-brockman/" target="_blank"><img src="assets/hn_story_5.svg" alt="Hacker News Story 5" width="100%"/></a></td>
+<td width="50%"><a href="https://audiomass.co/?multitrack=1" target="_blank"><img src="assets/hn_story_5.svg" alt="Hacker News Story 5" width="100%"/></a></td>
 <td width="50%"></td>
 </tr>
 </table>
 
 ---
 
-### 🦞 Top 5 on Lobste.rs · May 24, 2026
+### 🦞 Top 5 on Lobste.rs · May 25, 2026
 > Curated tech stories voted on by the Lobste.rs community. Click any card to read the article.
 
 <table width="100%">
 <tr>
-<td width="50%"><a href="https://seriot.ch/computation/jira.html" target="_blank"><img src="assets/lobsters_story_1.svg" alt="Lobste.rs Story 1" width="100%"/></a></td>
-<td width="50%"><a href="https://susam.net/do-not-roll-your-own.html" target="_blank"><img src="assets/lobsters_story_2.svg" alt="Lobste.rs Story 2" width="100%"/></a></td>
+<td width="50%"><a href="https://abyss.fish/your_dotfiles_are_not_a_distro" target="_blank"><img src="assets/lobsters_story_1.svg" alt="Lobste.rs Story 1" width="100%"/></a></td>
+<td width="50%"><a href="https://lyra.horse/fun/jscrossword/" target="_blank"><img src="assets/lobsters_story_2.svg" alt="Lobste.rs Story 2" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://benmyers.dev/blog/on-the-dl/" target="_blank"><img src="assets/lobsters_story_3.svg" alt="Lobste.rs Story 3" width="100%"/></a></td>
-<td width="50%"><a href="https://veronicaexplains.net/my-first-writerdeck/" target="_blank"><img src="assets/lobsters_story_4.svg" alt="Lobste.rs Story 4" width="100%"/></a></td>
+<td width="50%"><a href="https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/" target="_blank"><img src="assets/lobsters_story_3.svg" alt="Lobste.rs Story 3" width="100%"/></a></td>
+<td width="50%"><a href="https://lucumr.pocoo.org/2026/5/24/pi-oss/" target="_blank"><img src="assets/lobsters_story_4.svg" alt="Lobste.rs Story 4" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://modrinth.com/project/9yAfrPwH" target="_blank"><img src="assets/lobsters_story_5.svg" alt="Lobste.rs Story 5" width="100%"/></a></td>
+<td width="50%"><a href="https://pta2002.com/blog/colemak/" target="_blank"><img src="assets/lobsters_story_5.svg" alt="Lobste.rs Story 5" width="100%"/></a></td>
 <td width="50%"></td>
 </tr>
 </table>
