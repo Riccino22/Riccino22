@@ -1,4 +1,4 @@
-<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Story 4: Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal">
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Story 4: Flipper Zero Zig Template">
 
   <rect width="800" height="400" rx="12" fill="#0f1011"/>
   <rect width="800" height="400" rx="12" fill="none" stroke="#23252a" stroke-width="1"/>
@@ -15,16 +15,16 @@
   <!-- Title (1 or 2 lines, word-wrapped) -->
   <text x="40" y="202"
     font-family="'SF Pro Display',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="56" font-weight="600" letter-spacing="-2"
-    fill="#f7f8f8">Show HN: Breathe CLI –</text>
+    fill="#f7f8f8">Flipper Zero Zig</text>
   <text x="40" y="272"
     font-family="'SF Pro Display',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="56" font-weight="600" letter-spacing="-2"
-    fill="#f7f8f8">Paced resonance…</text>
+    fill="#f7f8f8">Template</text>
 
   <!-- Meta row -->
-  <text x="40" y="340" font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="28" font-weight="500" fill="#5e6ad2">▲ 44</text>
+  <text x="40" y="340" font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="28" font-weight="500" fill="#5e6ad2">▲ 45</text>
   <text x="188" y="340" font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="28" fill="#3e3e44">·</text>
-  <text x="212" y="340" font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="28" fill="#d0d6e0">by <tspan font-weight="500" fill="#f7f8f8">marekkowalcz…</tspan></text>
+  <text x="212" y="340" font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="28" fill="#d0d6e0">by <tspan font-weight="500" fill="#f7f8f8">Nars088</tspan></text>
   <text x="468" y="340" font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="28" fill="#3e3e44">·</text>
-  <text x="492" y="340" font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="28" fill="#8a8f98">◯ 5 comments</text>
+  <text x="492" y="340" font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="28" fill="#8a8f98">◯ 2 comments</text>
 
 </svg>
