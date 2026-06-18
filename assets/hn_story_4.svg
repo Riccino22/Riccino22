@@ -1,4 +1,4 @@
-<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Story 4: Show HN: High-Res Neural Cellular Automata">
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Story 4: Local Qwen isn't a worse Opus, it's a different tool">
 
   <rect width="800" height="400" rx="12" fill="#0f1011"/>
   <rect width="800" height="400" rx="12" fill="none" stroke="#23252a" stroke-width="1"/>
@@ -6,25 +6,23 @@
   <!-- Eyebrow: rank · domain -->
   <text x="40" y="80"
     font-family="ui-monospace,'SF Mono','Cascadia Code','Courier New',monospace" font-size="32" font-weight="500" letter-spacing="1.6"
-    fill="#62666d">#4<tspan fill="#3e3e44">  ·  </tspan><tspan fill="#8a8f98" letter-spacing="0">cells2pixels.github.io</tspan></text>
+    fill="#62666d">#4<tspan fill="#3e3e44">  ·  </tspan><tspan fill="#8a8f98" letter-spacing="0">blog.alexellis.io</tspan></text>
 
-  <!-- Category pill -->
-  <rect x="676" y="54" width="84" height="36" rx="9999" fill="#141516" stroke="#34343a" stroke-width="1"/>
-  <text x="718" y="78" font-family="ui-monospace,'SF Mono','Cascadia Code','Courier New',monospace" font-size="20" font-weight="500" letter-spacing="2" fill="#8a8f98" text-anchor="middle">CODE</text>
+  
 
   <!-- Title (1 or 2 lines, word-wrapped) -->
   <text x="40" y="202"
     font-family="'SF Pro Display',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="56" font-weight="600" letter-spacing="-2"
-    fill="#f7f8f8">Show HN: High-Res Neural</text>
+    fill="#f7f8f8">Local Qwen isn't a worse</text>
   <text x="40" y="272"
     font-family="'SF Pro Display',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="56" font-weight="600" letter-spacing="-2"
-    fill="#f7f8f8">Cellular Automata</text>
+    fill="#f7f8f8">Opus, it's a different…</text>
 
   <!-- Meta row -->
-  <text x="40" y="340" font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="28" font-weight="500" fill="#5e6ad2">▲ 94</text>
+  <text x="40" y="340" font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="28" font-weight="500" fill="#5e6ad2">▲ 276</text>
   <text x="188" y="340" font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="28" fill="#3e3e44">·</text>
-  <text x="212" y="340" font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="28" fill="#d0d6e0">by <tspan font-weight="500" fill="#f7f8f8">esychology</tspan></text>
+  <text x="212" y="340" font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="28" fill="#d0d6e0">by <tspan font-weight="500" fill="#f7f8f8">alphabettsy</tspan></text>
   <text x="468" y="340" font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="28" fill="#3e3e44">·</text>
-  <text x="492" y="340" font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="28" fill="#8a8f98">◯ 12 comments</text>
+  <text x="492" y="340" font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="28" fill="#8a8f98">◯ 142 comments</text>
 
 </svg>
