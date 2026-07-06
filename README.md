@@ -2,40 +2,40 @@
 
 <!-- NEWSLETTER_START -->
 
-### 📰 Top 5 on Hacker News · July 5, 2026
+### 📰 Top 5 on Hacker News · July 6, 2026
 > Automatically updated every day with the most upvoted stories. Click any card to read the article.
 
 <table width="100%">
 <tr>
-<td width="50%"><a href="https://ui.shadcn.com/docs/changelog" target="_blank"><img src="assets/hn_story_1.svg" alt="Hacker News Story 1" width="100%"/></a></td>
-<td width="50%"><a href="https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/" target="_blank"><img src="assets/hn_story_2.svg" alt="Hacker News Story 2" width="100%"/></a></td>
+<td width="50%"><a href="https://www.map.signalbox.io" target="_blank"><img src="assets/hn_story_1.svg" alt="Hacker News Story 1" width="100%"/></a></td>
+<td width="50%"><a href="https://elm-lang.org/news/faster-builds" target="_blank"><img src="assets/hn_story_2.svg" alt="Hacker News Story 2" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main" target="_blank"><img src="assets/hn_story_3.svg" alt="Hacker News Story 3" width="100%"/></a></td>
-<td width="50%"><a href="https://www.devever.net/~hl/webcrypto" target="_blank"><img src="assets/hn_story_4.svg" alt="Hacker News Story 4" width="100%"/></a></td>
+<td width="50%"><a href="https://spectrum.ieee.org/us-engineered-sovereignty" target="_blank"><img src="assets/hn_story_3.svg" alt="Hacker News Story 3" width="100%"/></a></td>
+<td width="50%"><a href="https://twitter.com/thsottiaux/status/2073933490513752151" target="_blank"><img src="assets/hn_story_4.svg" alt="Hacker News Story 4" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://craigmod.com/essays/fast_software/" target="_blank"><img src="assets/hn_story_5.svg" alt="Hacker News Story 5" width="100%"/></a></td>
+<td width="50%"><a href="https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/" target="_blank"><img src="assets/hn_story_5.svg" alt="Hacker News Story 5" width="100%"/></a></td>
 <td width="50%"></td>
 </tr>
 </table>
 
 ---
 
-### 🦞 Top 5 on Lobste.rs · July 5, 2026
+### 🦞 Top 5 on Lobste.rs · July 6, 2026
 > Curated tech stories voted on by the Lobste.rs community. Click any card to read the article.
 
 <table width="100%">
 <tr>
-<td width="50%"><a href="https://gracefulliberty.com/articles/return-to-zig/" target="_blank"><img src="assets/lobsters_story_1.svg" alt="Lobste.rs Story 1" width="100%"/></a></td>
-<td width="50%"><a href="https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/" target="_blank"><img src="assets/lobsters_story_2.svg" alt="Lobste.rs Story 2" width="100%"/></a></td>
+<td width="50%"><a href="https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm" target="_blank"><img src="assets/lobsters_story_1.svg" alt="Lobste.rs Story 1" width="100%"/></a></td>
+<td width="50%"><a href="https://elm-lang.org/news/faster-builds" target="_blank"><img src="assets/lobsters_story_2.svg" alt="Lobste.rs Story 2" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://hauleth.dev/post/the-lion-the-witch-and-the-aduacity-of-recruiter/" target="_blank"><img src="assets/lobsters_story_3.svg" alt="Lobste.rs Story 3" width="100%"/></a></td>
-<td width="50%"><a href="https://blog.tymscar.com/posts/crinklecranklewalls/" target="_blank"><img src="assets/lobsters_story_4.svg" alt="Lobste.rs Story 4" width="100%"/></a></td>
+<td width="50%"><a href="https://rapha.land/jam-programming-language/" target="_blank"><img src="assets/lobsters_story_3.svg" alt="Lobste.rs Story 3" width="100%"/></a></td>
+<td width="50%"><a href="https://blog.dureuill.net/articles/wip/" target="_blank"><img src="assets/lobsters_story_4.svg" alt="Lobste.rs Story 4" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/J-jaeyoung/bad-epoll" target="_blank"><img src="assets/lobsters_story_5.svg" alt="Lobste.rs Story 5" width="100%"/></a></td>
+<td width="50%"><a href="https://rayfish.xyz/blog/01-introducing-rayfish" target="_blank"><img src="assets/lobsters_story_5.svg" alt="Lobste.rs Story 5" width="100%"/></a></td>
 <td width="50%"></td>
 </tr>
 </table>
