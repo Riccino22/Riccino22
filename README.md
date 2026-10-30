@@ -2,40 +2,40 @@
 
 <!-- NEWSLETTER_START -->
 
-### 📰 Top 5 on Hacker News · October 29, 2026
+### 📰 Top 5 on Hacker News · October 30, 2026
 > Automatically updated every day with the most upvoted stories. Click any card to read the article.
 
 <table width="100%">
 <tr>
-<td width="50%"><a href="https://mistral.ai/news/mistral-large-4-oss/" target="_blank"><img src="assets/hn_story_1.svg" alt="Hacker News Story 1" width="100%"/></a></td>
-<td width="50%"><a href="https://about.doordash.com/en-us/news/doordash-to-acquire-instacart" target="_blank"><img src="assets/hn_story_2.svg" alt="Hacker News Story 2" width="100%"/></a></td>
+<td width="50%"><a href="https://elect.horse/" target="_blank"><img src="assets/hn_story_1.svg" alt="Hacker News Story 1" width="100%"/></a></td>
+<td width="50%"><a href="https://phorion.io/blog/offical-claude-code-vsx-compromise/" target="_blank"><img src="assets/hn_story_2.svg" alt="Hacker News Story 2" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1" target="_blank"><img src="assets/hn_story_3.svg" alt="Hacker News Story 3" width="100%"/></a></td>
-<td width="50%"><a href="https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter" target="_blank"><img src="assets/hn_story_4.svg" alt="Hacker News Story 4" width="100%"/></a></td>
+<td width="50%"><a href="https://www.binarysecurity.no/posts/2026/10/one-root-case" target="_blank"><img src="assets/hn_story_3.svg" alt="Hacker News Story 3" width="100%"/></a></td>
+<td width="50%"><a href="https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead" target="_blank"><img src="assets/hn_story_4.svg" alt="Hacker News Story 4" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://trakkr.ai/trakkr-research/zombie-stats" target="_blank"><img src="assets/hn_story_5.svg" alt="Hacker News Story 5" width="100%"/></a></td>
+<td width="50%"><a href="https://status.northflank.com" target="_blank"><img src="assets/hn_story_5.svg" alt="Hacker News Story 5" width="100%"/></a></td>
 <td width="50%"></td>
 </tr>
 </table>
 
 ---
 
-### 🦞 Top 5 on Lobste.rs · October 29, 2026
+### 🦞 Top 5 on Lobste.rs · October 30, 2026
 > Curated tech stories voted on by the Lobste.rs community. Click any card to read the article.
 
 <table width="100%">
 <tr>
-<td width="50%"><a href="https://entropicthoughts.com/what-the-fox-say" target="_blank"><img src="assets/lobsters_story_1.svg" alt="Lobste.rs Story 1" width="100%"/></a></td>
-<td width="50%"><a href="https://mastodon.sdf.org/@netbsd/117518160563539748" target="_blank"><img src="assets/lobsters_story_2.svg" alt="Lobste.rs Story 2" width="100%"/></a></td>
+<td width="50%"><a href="https://cyberplace.social/@GossiTheDog/117528831681803563" target="_blank"><img src="assets/lobsters_story_1.svg" alt="Lobste.rs Story 1" width="100%"/></a></td>
+<td width="50%"><a href="https://melaniekat.com/blog/public-on-pds/" target="_blank"><img src="assets/lobsters_story_2.svg" alt="Lobste.rs Story 2" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://emudhra.we-have-a-problem.com/apple.html" target="_blank"><img src="assets/lobsters_story_3.svg" alt="Lobste.rs Story 3" width="100%"/></a></td>
-<td width="50%"><a href="https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html" target="_blank"><img src="assets/lobsters_story_4.svg" alt="Lobste.rs Story 4" width="100%"/></a></td>
+<td width="50%"><a href="https://seriot.ch/computation/curl.html" target="_blank"><img src="assets/lobsters_story_3.svg" alt="Lobste.rs Story 3" width="100%"/></a></td>
+<td width="50%"><a href="http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/" target="_blank"><img src="assets/lobsters_story_4.svg" alt="Lobste.rs Story 4" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/" target="_blank"><img src="assets/lobsters_story_5.svg" alt="Lobste.rs Story 5" width="100%"/></a></td>
+<td width="50%"><a href="https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445" target="_blank"><img src="assets/lobsters_story_5.svg" alt="Lobste.rs Story 5" width="100%"/></a></td>
 <td width="50%"></td>
 </tr>
 </table>
